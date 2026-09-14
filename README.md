@@ -13,6 +13,7 @@ directory or copy the tracked folders into it.
 - `moonloader/KV_Main.lua` — MoonLoader entry point.
 - `moonloader/KurtlarVadisi/` — campaign code, mission modules, systems,
   configuration, UI images, and development placeholders.
+- `cleo/README.md` — CLEO integration note; CLEO itself is installed locally.
 - `modloader/KurtlarVadisi/` — project character/model assets used by the
   campaign. The duplicated `*.dff1`/`*.txd1` recovery copies are excluded.
 - `KurtlarVadisi/source/` — editable Blender model, textures, build scripts,
