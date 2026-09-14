@@ -12,6 +12,10 @@
 !/modloader/
 !/KurtlarVadisi/
 
+# CLEO is a local dependency; track only this project note.
+cleo/*
+!cleo/README.md
+
 # Only the active campaign and its entry point belong in the runtime tree.
 moonloader/*
 !moonloader/KV_Main.lua
